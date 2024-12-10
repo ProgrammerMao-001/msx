@@ -1,4 +1,4 @@
 
 User-agent: *
 Allow: /
-Sitemap: https://programmermao-001.github.io/msx/sitemap-index.xml
+Sitemap: https://programmermao-001.github.io/sitemap-index.xml
